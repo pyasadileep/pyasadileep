@@ -1,3 +1,5 @@
+#!/bin/bash
+#addition of two numbers
 a =b+c
-
-x= y-z
+#subtraction of two numbers
+#x= y-z
