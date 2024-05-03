@@ -3,5 +3,7 @@
 a =b+c
 #subtraction of two numbers
 x= y-z
-
+#division
 x =a/b
+
+#percentage
