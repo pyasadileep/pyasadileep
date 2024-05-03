@@ -3,3 +3,5 @@
 a =b+c
 #subtraction of two numbers
 x= y-z
+
+x =a/b
