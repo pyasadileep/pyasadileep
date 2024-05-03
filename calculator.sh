@@ -6,7 +6,10 @@ x= y-z
 #division
 x =a/b
 
-#percentage
+#rebasepercentage
 
-#test
-`
+#test 
+1
+#rebasemultiplication
+x=a*b
+
