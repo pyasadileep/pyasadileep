@@ -2,7 +2,8 @@
 - 👀 I’m interested in devops entry level projects
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on entry level devops projects
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/pyasa-dileep
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
